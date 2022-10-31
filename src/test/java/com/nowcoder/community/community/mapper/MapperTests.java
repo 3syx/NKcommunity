@@ -68,7 +68,7 @@ public class MapperTests {
         int rows = userMapper.updateStatus(183,1);
         System.out.println(rows);
 
-        rows = userMapper.updateHeader(183,"http://www.test2@qq.com");
+        rows = userMapper.updateHeader(183,"http://www.test22@qq.com");
         System.out.println(rows);
 
     }
